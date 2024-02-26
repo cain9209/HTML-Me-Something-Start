@@ -11,7 +11,20 @@ body{
 #header{
     width: 100%;
     height: 100vh;
-    background-image: url(images/wallpaper.png); 
+    background-image: url(images/Web\ Pages\ to\ Apple.jpg); 
     background-size: cover;
     background-position: center;
+}
+.container{
+    padding: 10px 10%;
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.logo{
+    width: 140px;
 }
