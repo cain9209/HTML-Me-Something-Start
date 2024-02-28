@@ -11,7 +11,8 @@ body{
     background: #080808;
     color: #fff;
 }
-#header{
+#mainHeading{
+    color: red;
     width: 100%;
     height: 100vh;
     background-image: url(images/Web\ Pages\ to\ Apple.jpg); 
